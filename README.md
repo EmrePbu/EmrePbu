@@ -1,4 +1,3 @@
-<h1 align="center">I'm Emre Pbu</h1>
 <h3 align="center">The efforts of the young science lover to rise on the shoulders of the giants ...</h3>
 
 - 📝 I irregularly write articles on [https://www.digiuniverse.space/](https://www.digiuniverse.space/)
